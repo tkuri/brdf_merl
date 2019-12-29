@@ -1,0 +1,5 @@
+*.exe
+*.binary
+*.csv
+.vscode/
+*.txt
